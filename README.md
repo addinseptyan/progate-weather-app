@@ -24,7 +24,6 @@ The Weather App is a mobile application built with Expo and React Native that pr
 - React Native: A framework for building native apps using React.
 - OpenWeatherMap API: Provides weather data.
 - Axios: HTTP client for making requests.
-- React Navigation: Routing and navigation in React Native apps.
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
