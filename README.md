@@ -15,11 +15,17 @@ The Weather App is a mobile application built with Expo and React Native that pr
 
 ## Features
 🌍 Search by City: Enter any city name to get the current weather details.
+
 🕒 Current Weather: View real-time weather conditions including temperature, humidity, wind speed, and more.
+
 🧭 Location-Based Weather: Automatically fetch weather data for your current location.
+
 🌞 Weather Icons: Dynamic icons representing different weather conditions.
+
 📅 Forecast: 5-day weather forecast with detailed daily weather conditions.
+
 🌓 Dark Mode: Supports both light and dark themes.
+
 📱 Responsive Design: Optimized for both Android and iOS devices.
 
 ## Installation
@@ -69,7 +75,8 @@ React Native: A framework for building native apps using React.
 OpenWeatherMap API: Provides weather data.
 Axios: HTTP client for making requests.
 React Navigation: Routing and navigation in React Native apps.
-Contributing
+
+## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project.
