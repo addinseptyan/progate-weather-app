@@ -1,5 +1,4 @@
-Weather App 🌤️
-![progate-weather-app](https://github.com/addinseptyan/progate-weather-app/assets/76584759/ee065fd1-f04f-4c8f-b9f2-3ad3867b1dab)
+## Weather App 🌤️
 
 ## Table of Contents
 - [About](#about)
@@ -9,13 +8,12 @@ Weather App 🌤️
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-##About
+## About
 The Weather App is a mobile application built with Expo and React Native that provides real-time weather information for any city in the world. It utilizes the OpenWeatherMap API to fetch current weather data and displays it in an intuitive and visually appealing interface.
 
-Features
+## Features
 🌍 Search by City: Enter any city name to get the current weather details.
 🕒 Current Weather: View real-time weather conditions including temperature, humidity, wind speed, and more.
 🧭 Location-Based Weather: Automatically fetch weather data for your current location.
@@ -23,7 +21,8 @@ Features
 📅 Forecast: 5-day weather forecast with detailed daily weather conditions.
 🌓 Dark Mode: Supports both light and dark themes.
 📱 Responsive Design: Optimized for both Android and iOS devices.
-Installation
+
+## Installation
 To get a local copy of the project up and running, follow these steps:
 
 Prerequisites
@@ -55,17 +54,16 @@ Copy code
 expo start
 Follow the instructions in the terminal to run the app on an emulator or a physical device using the Expo Go app.
 
-Usage
+## Usage
 Open the app on your mobile device.
 Enter a city name in the search bar to fetch the weather data for that location.
 Allow location permissions to view weather for your current location.
 Navigate through the forecast to see upcoming weather conditions.
-Screenshots
 
+## Screenshots
+![progate-weather-app](https://github.com/addinseptyan/progate-weather-app/assets/76584759/ee065fd1-f04f-4c8f-b9f2-3ad3867b1dab)
 
-
-<!-- Include actual screenshots or remove this section -->
-Technologies Used
+## Technologies Used
 Expo: A framework for universal React applications.
 React Native: A framework for building native apps using React.
 OpenWeatherMap API: Provides weather data.
@@ -79,10 +77,8 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature).
 Commit your Changes (git commit -m 'Add some AmazingFeature').
 Push to the Branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
-License
-Distributed under the MIT License. See LICENSE for more information.
 
-Acknowledgments
+## Acknowledgments
 OpenWeatherMap
 Expo
 React Native
