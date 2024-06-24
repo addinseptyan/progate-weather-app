@@ -20,13 +20,6 @@ The Weather App is a mobile application built with Expo and React Native that pr
 
 🧭 Location-Based Weather: Automatically fetch weather data for your current location.
 
-🌞 Weather Icons: Dynamic icons representing different weather conditions.
-
-📅 Forecast: 5-day weather forecast with detailed daily weather conditions.
-
-🌓 Dark Mode: Supports both light and dark themes.
-
-📱 Responsive Design: Optimized for both Android and iOS devices.
 
 ## Installation
 To get a local copy of the project up and running, follow these steps:
@@ -79,11 +72,37 @@ React Navigation: Routing and navigation in React Native apps.
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project.
-Create your Feature Branch (git checkout -b feature/AmazingFeature).
-Commit your Changes (git commit -m 'Add some AmazingFeature').
-Push to the Branch (git push origin feature/AmazingFeature).
-Open a Pull Request.
+To contribute:
+
+1. **Fork the Project**:
+    ```bash
+    # Click the 'Fork' button at the top right of the repository page on GitHub.
+    ```
+
+2. **Create your Feature Branch**:
+    ```bash
+    git checkout -b feature/AmazingFeature
+    ```
+
+3. **Commit your Changes**:
+    ```bash
+    git add .
+    git commit -m 'Add some AmazingFeature'
+    ```
+
+4. **Push to the Branch**:
+    ```bash
+    git push origin feature/AmazingFeature
+    ```
+
+5. **Open a Pull Request**:
+    ```bash
+    # Go to your forked repository on GitHub.
+    # Click on 'Pull requests'.
+    # Click the 'New pull request' button.
+    # Select the branch you just pushed from the 'compare' dropdown.
+    # Click 'Create pull request'.
+    ```
 
 ## Acknowledgments
 OpenWeatherMap
